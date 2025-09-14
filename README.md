@@ -31,7 +31,8 @@ UI: Material Design with responsive layout
 
 📸 Screenshots
 
-![Screenshot_2025-09-15-01-29-16-59_a1a306373fbd79e6e4813e2037ef38a1](https://github.com/user-attachments/assets/70781ea1-61ce-4721-a397-73010bc7e22f)
+![Screenshot_2025-09-15-01-29-16-59_a1a306373fbd79e6e4813e2037ef38a1](https://github.com/user-attachments/assets/e0fe11e2-6c2e-4782-ac69-94b4f1b885fe)
+
 
 
 Home Screen

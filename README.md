@@ -41,34 +41,6 @@ Word Details Screen
 
 Translation & Examples
 
-
-🚀 Getting Started
-
-Clone the repository:
-
-git clone https://github.com/your-username/dictionary-app.git
-cd dictionary-app
-
-
-Install dependencies:
-
-flutter pub get
-
-
-Run the app:
-
-flutter run
-
-📌 Future Improvements
-
- Offline mode with local database (Hive/SQLite)
-
- Dark Mode support
-
- Voice input for word search
-
- Word of the Day feature
-
 🏆 Why This Project?
 
 Unlike ordinary dictionary apps, this project provides translations, multiple meanings, phonetics, examples, and synonyms, making it a complete vocabulary builder. It also showcases Flutter + Provider + API integration in a clean, maintainable way..
